@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusfontes1921&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfontes1921" /> </p>
 
-- 🌱 I’m currently learning **TypeScript and JavaScript**
+- 🌱 I’m currently learning **TypeScript and Python**
 
-- 💬 Ask me about **React, Java, HTML, CSS and Swift**
+- 💬 Ask me about **React, Java, HTML, CSS, JavaScript and Swift**
 
 - 📫 How to reach me **matheusfontes1921@gmail.com**
 
